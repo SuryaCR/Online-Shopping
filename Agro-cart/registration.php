@@ -124,6 +124,7 @@ color:#fff;
 <meta charset="utf-8">
 <body>
     <header align="center" style="color:black";><b><h1 style="color:green;font:45">AGRO-CART</h1></b></header>
+	<br><br><br><br>
 	<div class="login-box">
 		<center><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRoxJNwpO9xqIL6sGX9b_gK0ne-nNFFXYz9t9dPGKtD_McId-6Y" height="90" width="90"alt="Avatar"style="border-radius:50%"></center>
         <center><b><h3>SignUp</h3></b></center>
