@@ -129,7 +129,7 @@ color:#fff;
         <center><b><h3>SignUp</h3></b></center>
 		<center><form action="registration.php" method="post">
 
-			<?php include('errors.php') ?>	
+			
 			<div>
 				<p>Username</p>
 				<input type="text" name="username" placeholder="Enter Username" required>
